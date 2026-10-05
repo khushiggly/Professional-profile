@@ -2,7 +2,7 @@
 
 ## Short-Term Goals
 
-- Strengthen my programming and problem-solving skills.
+- Strengthen my programming, problem-solving, and analytical skills.
 - Learn more about cybersecurity fundamentals.
 - Improve my knowledge of Python, Java, and data structures.
 - Develop practical skills in Git and GitHub.
