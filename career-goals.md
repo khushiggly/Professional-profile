@@ -2,11 +2,11 @@
 
 ## Short-Term Goals
 
-- Strengthen my programming, problem-solving, and analytical skills.
-- Learn more about cybersecurity fundamentals.
-- Improve my knowledge of Python, Java, and data structures.
-- Develop practical skills in Git and GitHub.
-- Explore Generative AI and data science.
+* Strengthen my programming, problem-solving, and analytical skills.
+* Learn more about cybersecurity fundamentals.
+* Improve my knowledge of Python, Java, and data structures.
+* Develop practical skills in Git and GitHub.
+* Explore Generative AI and data science.
 
 ## Long-Term Goals
 
@@ -24,3 +24,4 @@ I plan to:
 4. Complete relevant certifications and courses.
 5. Participate in internships and technical activities.
 6. Continue learning about emerging technologies.
+
